@@ -41,4 +41,4 @@ jobs:
         python -m pip install --upgrade pip
         pip install ghp-import
         ghp-import -n dist/dev 
-        git push -fq https://${GITHUB_TOKEN}@github.com/CanalTP/navitia-playground.git gh-pages
+        git push -fq https://${GITHUB_TOKEN}@github.com/AzHicham/navitia-playground.git gh-pages
